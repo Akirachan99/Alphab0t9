@@ -1,5 +1,5 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY AKIRA YT
 
 *さ E-MONEY*
 1. GOPAY
@@ -17,4 +17,4 @@ Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 	}
 
 exports.allpayment = allpayment
- 
+ mo
